@@ -19,7 +19,7 @@ Website yang dibuat oleh orang Indonesia menggunakan Hugo:
 - [inseptek.github.io](https://inseptek.github.io/)
 - [lombokfoss.com](https://www.lombokfoss.com/)
 - [okutasan.github.io](https://okutasan.github.io)
-- [muhammadzakyzulfiqor.xyz](https://muhammadzakyzulfiqor.xyz/)
+- [zaky.my.id](https://zaky.my.id/)
 - [tipobrata.github.io](https://tipobrata.github.io/)
 - [yuda.nantoos.id](https://yuda.nantoos.id/)
 - [golang.id](https://golang.id/)
